@@ -1,5 +1,6 @@
 ## I'm a QA Engineer
 
+
 ## My CV: 
 [link to my CV](https://docs.google.com/document/d/1fs6OZGODtcUvfS7ZNXZ0FL4qKCQaIqNzG7OoObw8g2Q/edit?usp=sharing)
 
@@ -34,3 +35,7 @@ Tasks:
 - **Stepik:** [Test theory](https://stepik.org/cert/1962320)
 - **Stepik:** [SQL](https://stepik.org/cert/1975086)
 
+## Contact me
+- +374 44 170895
+- malyukov.qa@gmail.com
+- t.me/+79140924654 
