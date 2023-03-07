@@ -4,7 +4,7 @@
 [link to my CV](https://docs.google.com/document/d/1fs6OZGODtcUvfS7ZNXZ0FL4qKCQaIqNzG7OoObw8g2Q/edit?usp=sharing)
 
 ## My hardskils:
-Linux, Windows, Python, Java, HTML, CSS, SQL, Jira, Git, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA
+Linux, Windows, Python, Java, HTML, CSS, SQL, Jira, Git, GitHub, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA
 
 ## My experience:
 ### Coursework on manual testing: *Testing the personal account of the user of the online store https://henderson.ru*
@@ -24,7 +24,7 @@ Tasks:
 - Preparation of bug reports in Issues
 - Elimination of defects
 - Code fix
-- Technologies used: test design, Java, Maven, Git, IntelliJ IDEA.
+- Technologies used: test design, Java, Maven, Git, GitHub, IntelliJ IDEA.
 
 ## My education and certificates:
 - **Netology:** [QA Engineer education - course program](https://netology.ru/programs/qa-middle#/resume)
