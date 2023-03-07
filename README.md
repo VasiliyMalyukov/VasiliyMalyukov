@@ -5,7 +5,7 @@
 Linux, Windows, Python, Java, HTML, CSS, SQL, Jira, Git, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA
 ## My experience:
 **Coursework on manual testing**
-<p>Testing the personal account of the user of the online store https://henderson.ru
+<p>Testing the personal account of the user of the online store https://henderson.ru</p>
 Tasks:
 Drawing up a checklist for functional verification of the personal account of a registered authorized user;
 - Writing a set of test cases to test the password recovery functionality;
