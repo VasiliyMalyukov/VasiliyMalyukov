@@ -38,4 +38,4 @@ Tasks:
 ## Contact me
 - +374 44 170895
 - malyukov.qa@gmail.com
-- t.me/+79140924654 
+- [Telegram](t.me/+79140924654) 
