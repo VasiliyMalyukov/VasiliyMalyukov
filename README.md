@@ -38,4 +38,4 @@ Tasks:
 ## Contact me
 - +374 44 170895
 - malyukov.qa@gmail.com
-- [Telegram](t.me/+79140924654) 
+- [Telegram](https://t.me/mva_lawyer) 
