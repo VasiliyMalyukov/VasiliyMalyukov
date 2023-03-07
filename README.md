@@ -4,7 +4,8 @@
 ## My hardskils:
 Linux, Windows, Python, Java, HTML, CSS, SQL, Jira, Git, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA
 ## My experience:
-# Coursework on manual testing
+### Coursework on manual testing
+#### Testing the personal account of the user of the online store https://henderson.ru
 Tasks:
 Drawing up a checklist for functional verification of the personal account of a registered authorized user;
 - Writing a set of test cases to test the password recovery functionality;
