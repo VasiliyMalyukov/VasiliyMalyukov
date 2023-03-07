@@ -22,3 +22,11 @@ Tasks:
 - Elimination of defects;
 - Code fix;
 - Technologies used: test design, Java, Maven, Git, IntelliJ IDEA.
+
+## My education and certificates:
+- [Manual testing](https://netology.ru/sharing/625df093dd5b543d2348fce775d5a685?utm_source=social&utm_campaign=achievements);
+- [Git - version control system](https://netology.ru/sharing/6fb442e09a29c9741f998ead60fa82d1?utm_source=social&utm_campaign=achievements);
+- [Java for testers](https://netology.ru/sharing/ef86958cd60d629321b1ebbc24d4cf1a?utm_source=social&utm_campaign=achievements);
+- [Test theory](https://stepik.org/cert/1962320);
+- [SQL](https://stepik.org/cert/1975086)
+
