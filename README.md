@@ -12,3 +12,13 @@ Tasks:
 - Layout testing;
 - API testing.
 - Technologies used: test design, DevTools, Postman.
+
+### Java team project: testing a Java application for tracking game activity
+Tasks:
+- Creation of a joint repository on GitHub;
+- Writing a set of test cases;
+- Search for defects in the application;
+- Preparation of bug reports in Issues;
+- Elimination of defects;
+- Code fix;
+- Technologies used: test design, Java, Maven, Git, IntelliJ IDEA.
