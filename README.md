@@ -33,6 +33,7 @@ Tasks:
 - **Netology:** [Java for testers](https://netology.ru/sharing/ef86958cd60d629321b1ebbc24d4cf1a?utm_source=social&utm_campaign=achievements)
 - **Stepik:** [Test theory](https://stepik.org/cert/1962320)
 - **Stepik:** [SQL](https://stepik.org/cert/1975086)
+- - **Stepik:** [Software Testing: Postman for API Testing](https://stepik.org/cert/1988693)
 
 ## Contact me
 - +374 44 170895
