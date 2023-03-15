@@ -6,7 +6,7 @@
 ## My hardskills:
 - Testing theory, test design, software life cycle, client-server architecture;
 - Linux, Windows, iOS;
-- Basics: Python, Java, HTML, CSS, SQLж
+- Basics: Python, Java, HTML, CSS, SQL;
 - Jira, Git, GitHub, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA.
 
 ## My experience:
