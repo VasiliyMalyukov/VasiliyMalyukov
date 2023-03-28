@@ -7,7 +7,7 @@
 - Testing theory, test design, software life cycle, client-server architecture;
 - Linux, Windows, iOS;
 - Basics: Python, Java, HTML, CSS, SQL;
-- Jira, Git, GitHub, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA.
+- Jira, Git, GitHub, Postman, DevTools,  Visual Studio Code, IntelliJ IDEA, PyCharm, Wing.
 
 ## My experience:
 ### Coursework on manual testing: *Testing the personal account of the user of the online store https://henderson.ru*
